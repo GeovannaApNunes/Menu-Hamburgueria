@@ -1,3 +1,5 @@
+Menu Hamburgueria
+
 Este é um projeto de um menu digital básico para uma hamburgueria, desenvolvido com HTML e CSS. O menu apresenta diferentes categorias de itens, como Início,
 Galeria, Equipe e Contato. A navegação é feita por meio de um menu lateral simples.
 
